@@ -1,0 +1,23 @@
+h1 {
+    font-size: large;
+    font-weight: bold;
+}
+
+.memberList{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+table{
+    width: inherit;
+}
+
+thead{
+    font-weight: bold;
+}
+
+tbody{
+text-align: center;
+}
